@@ -1,9 +1,8 @@
 # Power-BI-Project(Credit Card Transactions)
 This is a Project on Power BI for my internship on Advanced Data Science at Indo-Euro Synchronization
 # Data Preperation
-I used ChatGpt as a medium to create a sample data for this project according to my needs so the data here is fictional but can be used for the project
-When creating a CSV file for credit card transaction data to use in your Power BI project, it's essential to include relevant information that allows for meaningful analysis and anomaly detection. Here's a list of common fields you should consider including in your credit card CSV dataset:
-
+I used ChatGpt as a medium to create a sample data for this project according to my needs so the data here is fictional but can be used for the project.
+When preparing a CSV file for credit card transaction data to utilize in your Power BI project, it's crucial to incorporate pertinent details that facilitate insightful analysis and the detection of anomalies. Below is a list of common fields to consider including in your credit card CSV dataset:
 1. **Transaction Date and Time:** Include a timestamp for each transaction. This allows for time-series analysis and the identification of temporal patterns.
 
 2. **Transaction Amount:** Include the amount of each transaction, as this is a critical factor in anomaly detection.

@@ -1,0 +1,41 @@
+Transaction_Date,Transaction_Amount,Cardholder_Name,Card_Number,Merchant_Name,Transaction_Type,Location,Currency,Payment_Status
+01-09-2023 10:00,75.2,John Doe,1234 5678 9876 5432,SuperMart,Purchase,New York,USD,Approved
+02-09-2023 14:30,49.99,Jane Smith,9876 5432 1234 5678,Gas Station,Purchase,Los Angeles,USD,Approved
+03-09-2023 09:15,120.5,Bob Johnson,4321 8765 2109 3456,Electronics Store,Purchase,Chicago,USD,Approved
+04-09-2023 16:45,35,Alice Brown,2109 3456 4321 8765,Coffee Shop,Purchase,Miami,USD,Approved
+05-09-2023 12:20,300,Eric Wilson,5678 9876 1234 5432,Department Store,Purchase,Houston,USD,Approved
+06-09-2023 08:55,75.2,John Doe,1234 5678 9876 5432,SuperMart,Refund,New York,USD,Refund
+07-09-2023 11:10,49.99,Jane Smith,9876 5432 1234 5678,Gas Station,Purchase,Los Angeles,USD,Approved
+08-09-2023 13:45,120.5,Bob Johnson,4321 8765 2109 3456,Electronics Store,Declined,Chicago,USD,Declined
+09-09-2023 17:30,35,Alice Brown,2109 3456 4321 8765,Coffee Shop,Purchase,Miami,USD,Approved
+10-09-2023 10:45,7500,Frank White,7654 4321 8765 2109,Luxury Boutique,Purchase,New York,USD,Approved
+11-09-2023 14:15,25,Grace Lee,8765 2109 3456 4321,Pharmacy,Purchase,Los Angeles,USD,Approved
+12-09-2023 16:40,120.5,Eva Green,2345 8765 4321 2109,Electronics Store,Refund,Chicago,USD,Refund
+13-09-2023 18:25,19.99,David Hall,5432 1234 5678 9876,Gas Station,Declined,Los Angeles,USD,Declined
+14-09-2023 07:55,300,Eric Wilson,5678 9876 1234 5432,Department Store,Refund,Houston,USD,Refund
+15-09-2023 12:30,1500,John Doe,1234 5678 9876 5432,Jewelry Store,Purchase,New York,USD,Approved
+16-09-2023 14:45,10,Jane Smith,9876 5432 1234 5678,Coffee Shop,Refund,Los Angeles,USD,Refund
+17-09-2023 09:30,50,Bob Johnson,4321 8765 2109 3456,Gas Station,Purchase,Chicago,USD,Approved
+18-09-2023 16:15,85,Alice Brown,2109 3456 4321 8765,Electronics Store,Purchase,Miami,USD,Approved
+19-09-2023 13:20,200,Eric Wilson,5678 9876 1234 5432,SuperMart,Refund,Houston,USD,Refund
+20-09-2023 11:45,45,John Doe,1234 5678 9876 5432,Coffee Shop,Declined,New York,USD,Declined
+21-09-2023 08:10,1500,Grace Lee,8765 2109 3456 4321,Department Store,Purchase,Los Angeles,USD,Approved
+22-09-2023 10:20,25,Eva Green,2345 8765 4321 2109,Gas Station,Refund,Chicago,USD,Refund
+23-09-2023 17:55,40,David Hall,5432 1234 5678 9876,Luxury Boutique,Declined,Los Angeles,USD,Declined
+24-09-2023 15:30,95,Eric Wilson,5678 9876 1234 5432,Pharmacy,Purchase,Houston,USD,Approved
+25-09-2023 14:05,80,John Doe,1234 5678 9876 5432,Coffee Shop,Purchase,New York,USD,Approved
+26-09-2023 12:15,35,Jane Smith,9876 5432 1234 5678,Gas Station,Refund,Los Angeles,USD,Refund
+27-09-2023 09:40,75,Bob Johnson,4321 8765 2109 3456,Electronics Store,Purchase,Chicago,USD,Approved
+28-09-2023 08:30,30,Alice Brown,2109 3456 4321 8765,Coffee Shop,Purchase,Miami,USD,Approved
+29-09-2023 11:25,3000,Frank White,7654 4321 8765 2109,Luxury Boutique,Declined,New York,USD,Declined
+30-09-2023 14:50,15,Grace Lee,8765 2109 3456 4321,Pharmacy,Purchase,Los Angeles,USD,Approved
+01-10-2023 17:05,200,Eva Green,2345 8765 4321 2109,Department Store,Purchase,Chicago,USD,Approved
+02-10-2023 16:35,20,David Hall,5432 1234 5678 9876,Electronics Store,Purchase,Los Angeles,USD,Approved
+03-10-2023 12:45,95,Eric Wilson,5678 9876 1234 5432,SuperMart,Refund,Houston,USD,Refund
+04-10-2023 14:20,40,John Doe,1234 5678 9876 5432,Coffee Shop,Purchase,New York,USD,Approved
+05-10-2023 10:10,30,Jane Smith,9876 5432 1234 5678,Gas Station,Purchase,Los Angeles,USD,Approved
+06-10-2023 09:30,150,Bob Johnson,4321 8765 2109 3456,Electronics Store,Declined,Chicago,USD,Declined
+07-10-2023 13:40,25,Alice Brown,2109 3456 4321 8765,Coffee Shop,Purchase,Miami,USD,Approved
+08-10-2023 16:55,10,Eric Wilson,5678 9876 1234 5432,Department Store,Purchase,Houston,USD,Approved
+09-10-2023 12:00,50,John Doe,1234 5678 9876 5432,Coffee Shop,Refund,New York,USD,Refund
+10-10-2023 11:15,75,Jane Smith,9876 5432 1234 5678,Gas Station,Purchase,Los Angeles,USD,Approved
